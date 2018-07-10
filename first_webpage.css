@@ -1,0 +1,66 @@
+h1{
+  color: white;
+  text-align:center;
+  font-family: 'ArchivoNarrow', Omnibus, sans-serif;
+
+}
+
+body{
+  background-color: #e9eda1;
+  font-family: Archivo-Narrow;
+  text-align:center;
+}
+
+title{
+  font-family: Impact;
+  font-size: 50px;
+}
+
+h2{
+  color: purple;
+}
+
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+}
+
+.gallery:hover {
+    border: 1px solid #777;
+}
+
+.gallery img {
+      width:  300px;
+      height: 400px;
+}
+
+.slideshow-container img {
+  width:  300px;
+  height: 400px;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+@font-face {
+   font-family: Archivo-Narrow;
+   src: url(Archivo-Narrow/ArchivoNarrow-Medium.ttf);
+}
+
+@font-face {
+   font-family: Glamor;
+   src: url(Glamor/Glamor-Bold.otf);
+}
+
+}
+
+img{
+  width 40%;
+  padding-right:30%;
+  padding-left:30%;
+  width 40%;
+}
